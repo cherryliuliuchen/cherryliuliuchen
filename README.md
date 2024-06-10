@@ -1,4 +1,6 @@
 
+
+![pic](https://github.com/cherryliuliuchen/cherryliuliuchen/blob/main/dance-party-characters-banner.png?raw=true)
 [LinkedIn]([https://www.linkedin.com/in/你的LinkedIn用户名](https://www.linkedin.com/in/cherry-liu-277635159/))
 
 # Hejhej 👯 Jag heter Chen Liu
