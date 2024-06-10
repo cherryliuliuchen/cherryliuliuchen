@@ -1,7 +1,12 @@
 
 
 ![pic](https://github.com/cherryliuliuchen/cherryliuliuchen/blob/main/dance-party-characters-banner.png?raw=true)
-[LinkedIn]([https://www.linkedin.com/in/你的LinkedIn用户名](https://www.linkedin.com/in/cherry-liu-277635159/))
+<a href="[https://www.example.com](https://www.linkedin.com/in/cherry-liu-277635159/)" target="_blank">
+  <button style="background-color: blue; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">
+    Click Me
+  </button>
+</a>
+
 
 # Hejhej 👯 Jag heter Chen Liu
 
