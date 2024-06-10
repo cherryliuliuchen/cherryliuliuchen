@@ -2,11 +2,7 @@
 
 ![pic](https://github.com/cherryliuliuchen/cherryliuliuchen/blob/main/dance-party-characters-banner.png?raw=true)
 
-<a href="https://www.linkedin.com/in/cherry-liu-27763515" target="_blank">
-  <button style="background-color: blue; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">
-    Click Me
-  </button>
-</a>
+![LinkedIn Badge](https://www.linkedin.com/in/cherry-liu-27763515)
 
 
 # Hejhej 👯 Jag heter Chen Liu
@@ -22,5 +18,5 @@ I'm a multifaceted full-stack engineer with a broad range of skills spanning fro
 ## 🛠️ Technical Skills
 
 - **Front-end:** React
-- **Back-end:** Java
+- **Back-end:** Java, Springboot, C#
 
