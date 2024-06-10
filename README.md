@@ -2,7 +2,7 @@
 
 ![pic](https://github.com/cherryliuliuchen/cherryliuliuchen/blob/main/dance-party-characters-banner.png?raw=true)
 
-![LinkedIn Badge](https://www.linkedin.com/in/cherry-liu-27763515)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherry-liu-277635159/)
 
 
 # Hejhej 👯 Jag heter Chen Liu
