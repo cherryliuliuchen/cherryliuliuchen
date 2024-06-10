@@ -12,11 +12,11 @@
 
 # Hejhej 👯 Jag heter Chen Liu
 
-I'm a multifaceted full-stack engineer with a broad range of skills spanning front-end to back-end development, QA, and technical support. Jag anstränger mig för att lära mig svenska.
+I'm a multifaceted full-stack engineer with a broad range of skills spanning front-end to back-end development, QA, and technical support. 
 
 
 ##  🚀Current Endeavors:
-- 🎓 I am currently enrolled at Chasacademy in Stockholm.
+- 🎓 I am currently enrolled at Chasacademy in Stockholm. Och jag anstränger mig för att lära mig svenska.
 - 🔍 Exploring React and Springboot.
 - 📫 Open to discussing new technologies and collaborative projects. 
 
