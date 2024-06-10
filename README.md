@@ -1,6 +1,4 @@
-
-
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+[![GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherry-liu-277635159/)
 
