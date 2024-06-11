@@ -21,7 +21,7 @@ I'm a multifaceted full-stack engineer with a broad range of skills spanning fro
 - 📫 Open to discussing new technologies and collaborative projects. 
 
 💻 Tech Stack:
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <!-- React -->
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="max-width: 100%;">
 
@@ -45,6 +45,7 @@ I'm a multifaceted full-stack engineer with a broad range of skills spanning fro
 
 <!-- SQL -->
 <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="max-width: 100%;">
+</div>
 
 
 
