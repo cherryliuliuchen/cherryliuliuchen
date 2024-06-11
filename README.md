@@ -20,7 +20,7 @@ I'm a multifaceted full-stack engineer with a broad range of skills spanning fro
 - 🔍 Exploring React and Springboot.
 - 📫 Open to discussing new technologies and collaborative projects. 
 
-💻 Tech Stack:
+##  💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <!-- React -->
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" style="max-width: 100%;">
